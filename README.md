@@ -1,2 +1,2 @@
 # DR-and-ML
-This repository explores feature engineering &amp; preprocessing, dimensionality reduction methodologies, and machine learning methods both supervised and unsupervised. We will apply these methods to differing popular datasets publicly available.
+This repository explores feature engineering &amp; preprocessing, dimensionality reduction methodologies, and machine learning methods both supervised and unsupervised. We will apply these methods to differing popular datasets publicly available...
